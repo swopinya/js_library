@@ -1,0 +1,27 @@
+{
+  "name": "js_library",
+  "version": "1.0.0",
+  "description": "Get starwars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swopinya/js_library.git"
+  },
+  "keywords": [
+    "randon",
+    "star",
+    "wars"
+  ],
+  "author": "Shimon Swisa <shimon@opinya.co.il> (http://www.opinya.co.il/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swopinya/js_library/issues"
+  },
+  "homepage": "https://github.com/swopinya/js_library#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
